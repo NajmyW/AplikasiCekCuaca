@@ -31,23 +31,8 @@ Aplikasi Java ini terintegrasi dengan API cuaca eksternal (seperti OpenWeatherMa
 - Tombol untuk menyimpan dan memuat data cuaca ke dan dari file CSV.
 - Fitur untuk menampilkan data cuaca yang disimpan pada JTable.
 
-## Pengaturan
-1. Clone repositori:
-   ```
-   git clone https://github.com/usernameanda/aplikasi-pengecekan-cuaca.git
-   ```
-2. Navigasi ke direktori proyek:
-   ```
-   cd aplikasi-pengecekan-cuaca
-   ```
-3. Kompilasi dan jalankan aplikasi:
-   ```
-   javac AplikasiCuaca.java
-   java AplikasiCuaca
-   ```
-
 ## Dependensi
 - Java Development Kit (JDK) versi 8 atau lebih tinggi.
-- Pustaka eksternal untuk penanganan permintaan API dan JSON (mis., Gson, Apache HttpClient).
+- Pustaka eksternal untuk penanganan permintaan API dan JSON.
 
 ---
