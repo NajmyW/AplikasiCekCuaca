@@ -33,7 +33,8 @@ import org.json.JSONObject;
  */
 public class AplikasiCekCuaca extends javax.swing.JFrame {
     private ArrayList<String> favoriteCities = new ArrayList<>();  
-    private static final String API_KEY = ""; // Replace with OpenWeatherMap API key
+    private static final String API_KEY = ""; // Replace with OpenWeatherMap API key nya disini
+
     private static final String CSV_FILE = "favorites.csv"; // CSV file path for saving/loading favorites
      private static final String FAVORITES_FILE = "favorites.txt"; // Path for saving favorite cities
 
